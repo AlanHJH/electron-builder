@@ -1,5 +1,5 @@
 {
-  "name": "@electron-builder/monorepo",
+  "name": "eletronibuilder",
   "private": false,
   "workspaces": [
     "packages/*",
